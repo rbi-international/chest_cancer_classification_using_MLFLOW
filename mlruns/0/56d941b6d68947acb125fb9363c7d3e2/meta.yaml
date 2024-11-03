@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW-TEST/chest_cancer_classification_using__MLOPS_MLFLOW_and_DVC/mlruns/0/56d941b6d68947acb125fb9363c7d3e2/artifacts
+end_time: 1730618817746
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56d941b6d68947acb125fb9363c7d3e2
+run_name: unleashed-trout-516
+run_uuid: 56d941b6d68947acb125fb9363c7d3e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730618812192
+status: 3
+tags: []
+user_id: rbhar
